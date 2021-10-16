@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://zhuoqizheng.github.io"
+baseURL = "zhuoqizheng.github.io"
 title = "Kay's Homepage"
 languageCode = "en"
 hasCJKLanguage = true
