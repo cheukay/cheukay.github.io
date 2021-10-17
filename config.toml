@@ -1,7 +1,7 @@
 ##########################################
 # Site Settings
 
-baseURL = "https://zhuoqizheng.github.io"
+baseURL = "https://cheukay.github.io"
 title = "Kay's Homepage"
 languageCode = "en"
 hasCJKLanguage = true
@@ -19,7 +19,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 # Pluralize titles in lists?
-pluralizeListTitles = false
+pluralizeListTitles = true
 
 # The length of text in words to show in summary
 summaryLength = 42
@@ -438,7 +438,7 @@ uglyURLs = false
     ######################################
     # List Page
 
-    listWidth = 36
+    listWidth = 50
     # Note: you can leave it empty("") to
     #       fallback to the default value: 42
     #       Unit: em
@@ -454,7 +454,7 @@ uglyURLs = false
     # Note: left or right
 
     # Separate the list by month?
-    groupByMonth = true
+    groupByMonth = false
 
     # Enable Chinese zodiac?
     chineseZodiac = true
@@ -761,14 +761,14 @@ uglyURLs = false
     duration = 0.5
 
     # Primary color of light mode
-    primaryColorLight = "220, 90%, 56%"
+    primaryColorLight = "210, 90%, 60%"
     # Primary color of dark mode
-    primaryColorDark = "201, 65%, 62%"
+    primaryColorDark = "210, 90%, 60%"
     # ATTENTION: only HSL color values ​​are
     #            supported
 
     # The content width of the post
-    postWidth = 36
+    postWidth = 50
     # Note: you can leave it empty("") to
     #       fallback to the default value: 42
     #       Unit: em
@@ -1114,9 +1114,9 @@ uglyURLs = false
     ######################################
     # Post Updated Badge
 
-    enablePostUpdatedBadge = true
+    enablePostUpdatedBadge = false
 
-    displayUpdatedBadge = true
+    displayUpdatedBadge = false
     # Note: *global settings*
     #       `badge` in post’s Front Matter
     #       has a higher priority than here
@@ -1157,9 +1157,9 @@ uglyURLs = false
     ######################################
     # Post Share
 
-    enablePostShare = true
+    enablePostShare = false
 
-    displayPostShare = true
+    displayPostShare = false
     # Note: *global settings*
     #       `share` in post’s Front Matter
     #       has a higher priority than here
